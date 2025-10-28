@@ -18,4 +18,4 @@ window.addEventListener("resize", () => {
   renderer.setSize(window.innerWidth, window.innerHeight);
 });
 
-console.log("Minecraft Web initialized without PointerLockControls!");
+console.log("Minecraft Web initialized!");
